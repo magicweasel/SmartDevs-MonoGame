@@ -1,12 +1,8 @@
 # SmartDevs Game
 
-The following game was hacked together in just over an
-hour at a [MonoGame talk I delivered at SmartDevs in
-Hereford](https://www.meetup.com/Smart-Devs-User-Group/events/239295634/) based on some ideas from the session attendees.
+The following game was hacked together in just over an hour at a [MonoGame talk I delivered at SmartDevs in Hereford](https://www.meetup.com/Smart-Devs-User-Group/events/239295634/) based on some ideas from the session attendees.
 
-The base of the game was copied and pasted from other
-projects and the internet and as such maybe a little
-rough!
+The base of the game was copied and pasted from other projects and the internet and as such maybe a little rough!
 
 **Please Note** Install MonoGame before running as it's
 set to use the assembly from the GAK and not NuGet.
