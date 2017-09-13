@@ -4,7 +4,7 @@ The following game was hacked together in just over an hour at a [MonoGame talk 
 
 The base of the game was copied and pasted from other projects and the internet and as such maybe a little rough!
 
-**Please Note** Install MonoGame before running as it's
+**!!!Please Note!!!** Install MonoGame before running as it's
 set to use the assembly from the GAK and not NuGet.
 
 Installer can be found here: [MonoGame Website](http://www.monogame.net)
