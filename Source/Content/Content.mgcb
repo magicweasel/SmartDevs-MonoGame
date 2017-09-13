@@ -1,7 +1,7 @@
 
 #----------------------------- Global Properties ----------------------------#
 
-/outputDir:..\KillerApp\Content
+/outputDir:..\SmartDevsGame\Content
 /intermediateDir:..\Content
 /platform:Windows
 /config:
