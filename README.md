@@ -25,6 +25,8 @@ Use file explorer to view ...
 Start here to look around in Visual Studio
 /Source/SmartDevsGame/Game1.cs
 
-Any questions please tweet me at @theMagicWeasel
+Any questions please tweet me at [@theMagicWeasel](https://twitter.com/theMagicWeasel)
 
 **Enjoy :)**
+
+![](https://github.com/magicweasel/SmartDevs-MonoGame/blob/master/game.gif)
