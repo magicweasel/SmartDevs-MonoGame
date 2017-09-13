@@ -1,7 +1,7 @@
 # SmartDevs Game
 
-The following game was hacked together in an hour at
-my MonoGame session at SmartDevs in Hereford.
+The following game was hacked together in just over an
+hour at a [MonoGame talk I gave at SmartDevs in Hereford](https://www.meetup.com/Smart-Devs-User-Group/events/239295634/).
 
 The base of the game was copied and pasted from other
 projects and the internet and as such maybe a little
@@ -10,7 +10,7 @@ rough!
 **Please Note** Install MonoGame before running as it's
 set to use the assembly from the GAK and not NuGet.
 
-[MonoGame Website](http://www.monogame.net)
+Installer can be found here: [MonoGame Website](http://www.monogame.net)
 
 Installing MonoGame this way gives you access to the UI
 tool for building your content.
